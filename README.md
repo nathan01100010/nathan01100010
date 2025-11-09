@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Hallo! Hey! Servus! Howdy! Moin! What's Up? Grüß Gott!
 
 <!--
 **nathan01100010/nathan01100010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
